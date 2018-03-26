@@ -1,2 +1,3 @@
 addd
-
+subract
+multiply
